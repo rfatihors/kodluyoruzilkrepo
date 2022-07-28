@@ -5,9 +5,11 @@ Bu repo Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçersimde bir ad
 
 Öncelikle projeyi clonelayın. 
 
-````
+```
 
 git clone https://github.com/rfatihors/kodluyoruzilkrepo.git
 
 ```
+
+
 ![ProjemizinBirResmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
